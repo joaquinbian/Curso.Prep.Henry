@@ -1,0 +1,19 @@
+h1 {
+    color: violet;
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    background-color: red;
+    height: 600px;
+    width: 500px;
+    padding: 50px;
+    border: blue 2px solid;
+    border-radius: 4px;
+    
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
